@@ -1,0 +1,12 @@
+{
+  "name": "@sanedefaults/prettier-config",
+  "version": "1.0.0",
+  "description": "Sane Default Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:sane-defaults/prettier-config.git",
+  "author": "Martin Meredith <martin@sourceguru.net>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
